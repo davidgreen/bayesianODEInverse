@@ -22,13 +22,13 @@ Command line args are:
 
 # Command line calls to generate data for each figure.
 
-## To produce training and test traces (data for Figs 1 and 2)
+## To produce training and test traces (data for Figs 1, 2 and 3)
 
 ```
 python3 mainGenerateTraceAndTrainingData.py
 ```
 
-## Figure 3
+## Figure 4
 
 ```
 python3 mainTrain.py 173451 2500 0.75
@@ -37,21 +37,21 @@ python3 mainTrain.py 17345 10000 0.75
 ```
 
 
-## Figure 4
+## Figure 5
 
 ```
 python3 mainTrain.py 173456 5000 0.75
 ```
 
 
-## Figure 5
+## Figure 6
 
 ```
 python3 mainTrain.py 16460 10000 0.75
 ```
 
 
-## Figure 6
+## Figure 7
 
 ```
 python3 mainTrain.py 33333 50000 0.75
@@ -64,7 +64,7 @@ python3 mainTrain.py 17345 10000 0.75
 
 
 
-## Figure 7
+## Figures 8 and 9
 
 ```
 python3 mainTrain.py 173456 5000 0.75
