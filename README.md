@@ -2,7 +2,7 @@
 
 This is code for the paper Green, David K. E. and Rindler, Filip (2020) *Probabilistic solution of chaotic dynamical system inverse problems using Bayesian Artificial Neural Networks*.
 
-Status: preprint. Pending arxiv annoucement. Arxiv id will be uploaded here when available.
+See: https://arxiv.org/abs/2005.13028
 
 # Code layout
 
